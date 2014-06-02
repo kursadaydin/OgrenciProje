@@ -1,0 +1,19 @@
+	 ÖÐRENCÝ KAYIT TAKÝP SÝSTEMÝ
+1nci Öðrencinin Adý      : SDFSF
+1nci Öðrencinin Soyadý   : SDFSDF
+1nci Öðrencinin Numarasý : 3
+1nci Öðrencinin Bölümü   : TM
+1nci Öðrencinin 1. Dersi : A
+1nci Öðrencinin 2. Dersi : B
+1nci Öðrencinin 3. Dersi : C
+1nci Öðrencinin 4. Dersi : D
+____________________________________________________________
+2nci Öðrencinin Adý      : ERTAN
+2nci Öðrencinin Soyadý   : FG
+2nci Öðrencinin Numarasý : 56
+2nci Öðrencinin Bölümü   : TM
+2nci Öðrencinin 1. Dersi : E
+2nci Öðrencinin 2. Dersi : F
+2nci Öðrencinin 3. Dersi : G
+2nci Öðrencinin 4. Dersi : H
+____________________________________________________________
